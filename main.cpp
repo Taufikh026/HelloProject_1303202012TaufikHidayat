@@ -2,6 +2,9 @@
 #include <iostream>
 #include "movieP.h"
 
+//Taufik Hidayat
+//1303202012
+
 int main()
 {
     // Jadi yang direlasikan itu variable Nama_Movie dari parent MOVIE dan variable Dibintangi dari child AKTOR  :)
